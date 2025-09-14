@@ -28,5 +28,5 @@ python main.py
 - Files with unknown extensions will go into the **Others** folder.
 - You can customize file type categories in the script.
 
-📜 License 
+## 📜 License  
 Free to use, modify, and share.
