@@ -24,19 +24,19 @@ python main.py
 ```
 ## 📌 Example
 Before:
-📂 Downloads
- ┣ report.docx
- ┣ photo.png
- ┣ song.mp3
- ┣ movie.mp4
- ┗ archive.zip
+📂 Downloads 
+ ┣ report.docx 
+ ┣ photo.png 
+ ┣ song.mp3 
+ ┣ movie.mp4 
+ ┗ archive.zip 
 After running File Sorter:
-📂 Downloads
- ┣ 📁 Documents → report.docx
- ┣ 📁 Images → photo.png
- ┣ 📁 Audio → song.mp3
- ┣ 📁 Video → movie.mp4
- ┗ 📁 Archives → archive.zip
+📂 Downloads 
+ ┣ 📁 Documents → report.docx 
+ ┣ 📁 Images → photo.png 
+ ┣ 📁 Audio → song.mp3 
+ ┣ 📁 Video → movie.mp4 
+ ┗ 📁 Archives → archive.zip 
 
 ## 💡 Notes
 - Files with unknown extensions will go into the **Others** folder.
