@@ -12,15 +12,16 @@ Clone the repository or download the script:
 ```bash
 git clone https://github.com/your-username/file-sorter.git
 cd file-sorter
-
+```
 ## ▶️ Usage
 1. Run the script in your terminal:
 ```bash
 python main.py
+```
 2. Enter the path to the folder you want to organize, for example:
 ```python
 /Users/Admin/Desktop/Folder
-
+```
 ## 📌 Example
 Before:
 📂 Downloads
@@ -38,7 +39,7 @@ After running File Sorter:
  ┗ 📁 Archives → archive.zip
 
 ## 💡 Notes
-- Files with unknown extensions will go into the Others folder.
+- Files with unknown extensions will go into the **Others** folder.
 - You can customize file type categories in the script.
 
 📜 License
