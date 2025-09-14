@@ -13,6 +13,7 @@ Clone the repository or download the script:
 git clone https://github.com/your-username/file-sorter.git
 cd file-sorter
 ```
+
 ## ▶️ Usage
 1. Run the script in your terminal:
 ```bash
@@ -22,26 +23,6 @@ python main.py
 ```python
 /Users/Admin/Desktop/Folder
 ```
-## 📌 Example
-Before:
-📂 Downloads/
-├── report.docx
-├── photo.png
-├── song.mp3
-├── movie.mp4
-└── archive.zip
-After running File Sorter:
-📂 Downloads 
-├── Documents/
-│   └── report.docx
-├── Images/
-│   └── photo.png
-├── Audio/
-│   └── song.mp3
-├── Video/
-│   └── movie.mp4
-└── Archives/
-    └── archive.zip
 
 ## 💡 Notes
 - Files with unknown extensions will go into the **Others** folder.
